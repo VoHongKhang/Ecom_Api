@@ -1,0 +1,5 @@
+spring:
+  data:
+    mongodb:
+      uri : mongodb+srv://vohongkhang202:Khang2002@cluster0.usvkdgf.mongodb.net/?retryWrites=true&w=majority
+      database : Api-ecom
